@@ -131,7 +131,7 @@ function administrarMenu() {
 }
 
 
-// Función principal de la tienda (con do/while)
+// Función principal de la tienda
 function ejecutarTienda() {
     var opcion;
     do {
