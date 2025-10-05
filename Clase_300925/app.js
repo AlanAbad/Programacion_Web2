@@ -17,6 +17,7 @@ function mostrarMenu(){
 function agregarTarea(){
 	let nombre = prompt("Introduce el nombre de la tarea");
 	if(nombre) {
+		//Agrega tarea
 		let tarea = {
 			nombre: nombre,
 			completado: false	
